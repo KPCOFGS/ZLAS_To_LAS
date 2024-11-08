@@ -6,7 +6,9 @@ These two Python scripts used for ZLAS to LAS conversion and data extraction. Th
 
 To run it, first download the file as `.zip` file and extract it, then use a command similar to the following:
 
-`& "C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" "main.py" "path_to_ZLAS_folder"`
+```
+& "C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" "main.py" "path_to_ZLAS_folder"
+```
 
 The command in a high level:
 
