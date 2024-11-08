@@ -14,4 +14,4 @@ To run it, first download the file as `.zip` file and extract it, then use a com
 
   * Run python.exe that executes main.py, and it will take in a **folder** containing ZLAS files. 
 
-The Python script will convert only one ZLAS to LAS at a time, extract the useful information and put to an excel spreadsheet, then delete the LAS file as it is no longer needed and would only take up extra space. Then repeat this process until information is extracted from all ZLAS files.
+* The Python script will convert only one ZLAS to LAS at a time, extract the useful information and put to an excel spreadsheet, then delete the LAS file as it is no longer needed and would only take up extra space. Then repeat this process until information is extracted from all ZLAS files.
